@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 25 May 2026 01:56:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 01:28:20 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[老张]]></title>
-      <link>https://www.douban.com/note/22030773/</link>
+      <title><![CDATA[保守年代]]></title>
+      <link>https://www.douban.com/note/225883657/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/225883657/</guid>
+      <pubDate>Thu, 28 May 2026 01:28:20 +0000</pubDate>
+    </item>
+<item>
+      <title>老张</title>
+      <link>https://www.douban.com/note/22030773/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/22030773/</guid>
       <pubDate>Mon, 25 May 2026 01:56:21 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://zhuanlan.zhihu.com/p/2014175857032328602</guid>
       <pubDate>Thu, 09 Apr 2026 00:57:18 +0000</pubDate>
-    </item>
-<item>
-      <title>“诗史”：对文学批评的批评</title>
-      <link>https://www.douban.com/note/270065751/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/270065751/</guid>
-      <pubDate>Mon, 06 Apr 2026 01:07:56 +0000</pubDate>
     </item>
 </channel>
 </rss>
