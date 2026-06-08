@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 04 Jun 2026 02:12:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 02:06:50 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[十年前的北大（一个师姐写的 忍不住要转过来）]]></title>
-      <link>https://www.douban.com/note/22292935/</link>
+      <title><![CDATA[我为什么不预测未来]]></title>
+      <link>https://www.douban.com/note/605234763/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/605234763/</guid>
+      <pubDate>Mon, 08 Jun 2026 02:06:50 +0000</pubDate>
+    </item>
+<item>
+      <title>十年前的北大（一个师姐写的 忍不住要转过来）</title>
+      <link>https://www.douban.com/note/22292935/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/22292935/</guid>
       <pubDate>Thu, 04 Jun 2026 02:12:39 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://zhuanlan.zhihu.com/p/2010861411224544423</guid>
       <pubDate>Mon, 20 Apr 2026 01:14:18 +0000</pubDate>
-    </item>
-<item>
-      <title>谢尔盖·巴蒲金---孩子</title>
-      <link>https://www.douban.com/note/186406661/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/186406661/</guid>
-      <pubDate>Thu, 16 Apr 2026 01:14:49 +0000</pubDate>
     </item>
 </channel>
 </rss>
