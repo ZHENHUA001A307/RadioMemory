@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 08 Jun 2026 02:06:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 02:07:10 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[我为什么不预测未来]]></title>
-      <link>https://www.douban.com/note/605234763/</link>
+      <title><![CDATA[人形机器人 现在能帮你做家务了么？]]></title>
+      <link>https://zhuanlan.zhihu.com/p/1984275883503149142</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://zhuanlan.zhihu.com/p/1984275883503149142</guid>
+      <pubDate>Thu, 11 Jun 2026 02:07:10 +0000</pubDate>
+    </item>
+<item>
+      <title>我为什么不预测未来</title>
+      <link>https://www.douban.com/note/605234763/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/605234763/</guid>
       <pubDate>Mon, 08 Jun 2026 02:06:50 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/20467424/</guid>
       <pubDate>Thu, 23 Apr 2026 01:15:42 +0000</pubDate>
-    </item>
-<item>
-      <title>点金术II-如何正确使用梯级建仓（网格交易）</title>
-      <link>https://zhuanlan.zhihu.com/p/2010861411224544423</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://zhuanlan.zhihu.com/p/2010861411224544423</guid>
-      <pubDate>Mon, 20 Apr 2026 01:14:18 +0000</pubDate>
     </item>
 </channel>
 </rss>
