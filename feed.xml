@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 02 Jul 2026 03:40:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 03:15:42 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[（张一的日记）百花深处]]></title>
-      <link>https://www.douban.com/note/810138571/</link>
+      <title><![CDATA[27天决定科幻界命运起伏]]></title>
+      <link>https://www.douban.com/note/30773092/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/30773092/</guid>
+      <pubDate>Sat, 04 Jul 2026 03:15:42 +0000</pubDate>
+    </item>
+<item>
+      <title>（张一的日记）百花深处</title>
+      <link>https://www.douban.com/note/810138571/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/810138571/</guid>
       <pubDate>Thu, 02 Jul 2026 03:40:35 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/21182356/</guid>
       <pubDate>Mon, 04 May 2026 01:22:17 +0000</pubDate>
-    </item>
-<item>
-      <title>点金术PLUS版-2026的稳妥选择</title>
-      <link>https://zhuanlan.zhihu.com/p/2003136071131763898</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://zhuanlan.zhihu.com/p/2003136071131763898</guid>
-      <pubDate>Thu, 30 Apr 2026 01:26:13 +0000</pubDate>
     </item>
 </channel>
 </rss>
