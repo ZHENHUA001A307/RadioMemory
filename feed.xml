@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 09 Jul 2026 03:22:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 02:42:48 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[荒野大表哥]]></title>
-      <link>https://www.douban.com/note/623764836/</link>
+      <title><![CDATA[关于豆瓣 两三句]]></title>
+      <link>https://www.douban.com/note/43714921/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/43714921/</guid>
+      <pubDate>Sat, 11 Jul 2026 02:42:48 +0000</pubDate>
+    </item>
+<item>
+      <title>荒野大表哥</title>
+      <link>https://www.douban.com/note/623764836/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/623764836/</guid>
       <pubDate>Thu, 09 Jul 2026 03:22:48 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/153083803/</guid>
       <pubDate>Mon, 18 May 2026 01:52:42 +0000</pubDate>
-    </item>
-<item>
-      <title>精辟</title>
-      <link>https://www.douban.com/note/21790806/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/21790806/</guid>
-      <pubDate>Thu, 14 May 2026 01:48:44 +0000</pubDate>
     </item>
 </channel>
 </rss>
