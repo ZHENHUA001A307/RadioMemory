@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 16 Jul 2026 02:39:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 02:33:33 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[张晖早年信札选]]></title>
-      <link>https://www.douban.com/note/269688965/</link>
+      <title><![CDATA[亚洲时间]]></title>
+      <link>https://www.douban.com/note/47849165/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/47849165/</guid>
+      <pubDate>Sat, 18 Jul 2026 02:33:33 +0000</pubDate>
+    </item>
+<item>
+      <title>张晖早年信札选</title>
+      <link>https://www.douban.com/note/269688965/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/269688965/</guid>
       <pubDate>Thu, 16 Jul 2026 02:39:59 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://zhuanlan.zhihu.com/p/1988026574977663607</guid>
       <pubDate>Mon, 01 Jun 2026 02:05:14 +0000</pubDate>
-    </item>
-<item>
-      <title>保守年代</title>
-      <link>https://www.douban.com/note/225883657/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/225883657/</guid>
-      <pubDate>Thu, 28 May 2026 01:28:20 +0000</pubDate>
     </item>
 </channel>
 </rss>
