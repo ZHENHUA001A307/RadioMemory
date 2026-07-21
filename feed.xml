@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 20 Jul 2026 03:11:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 02:30:28 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[成功学 非欧几何与特斯拉]]></title>
-      <link>https://www.douban.com/note/777030638/</link>
+      <title><![CDATA[我最喜爱的]]></title>
+      <link>https://www.douban.com/note/48844082/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/48844082/</guid>
+      <pubDate>Tue, 21 Jul 2026 02:30:28 +0000</pubDate>
+    </item>
+<item>
+      <title>成功学 非欧几何与特斯拉</title>
+      <link>https://www.douban.com/note/777030638/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/777030638/</guid>
       <pubDate>Mon, 20 Jul 2026 03:11:22 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/605234763/</guid>
       <pubDate>Mon, 08 Jun 2026 02:06:50 +0000</pubDate>
-    </item>
-<item>
-      <title>十年前的北大（一个师姐写的 忍不住要转过来）</title>
-      <link>https://www.douban.com/note/22292935/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/22292935/</guid>
-      <pubDate>Thu, 04 Jun 2026 02:12:39 +0000</pubDate>
     </item>
 </channel>
 </rss>
