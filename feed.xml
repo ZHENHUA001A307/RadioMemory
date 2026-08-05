@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Sat, 01 Aug 2026 02:21:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 02:00:29 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[一段文字]]></title>
-      <link>https://www.douban.com/note/53542559/</link>
+      <title><![CDATA[莫斯科郊外的杀手]]></title>
+      <link>https://www.douban.com/note/703858667/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/703858667/</guid>
+      <pubDate>Wed, 05 Aug 2026 02:00:29 +0000</pubDate>
+    </item>
+<item>
+      <title>一段文字</title>
+      <link>https://www.douban.com/note/53542559/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/53542559/</guid>
       <pubDate>Sat, 01 Aug 2026 02:21:43 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/429789308/</guid>
       <pubDate>Sun, 05 Jul 2026 03:30:49 +0000</pubDate>
-    </item>
-<item>
-      <title>27天决定科幻界命运起伏</title>
-      <link>https://www.douban.com/note/30773092/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/30773092/</guid>
-      <pubDate>Sat, 04 Jul 2026 03:15:42 +0000</pubDate>
     </item>
 </channel>
 </rss>
