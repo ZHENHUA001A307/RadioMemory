@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Wed, 19 Aug 2026 00:55:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 01:03:15 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[嘉兴是一座怎样的城市？]]></title>
-      <link>https://www.zhihu.com/question/320644822/answer/1737930689</link>
+      <title><![CDATA[周老师]]></title>
+      <link>https://www.douban.com/note/57907758/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/57907758/</guid>
+      <pubDate>Sat, 22 Aug 2026 01:03:15 +0000</pubDate>
+    </item>
+<item>
+      <title>嘉兴是一座怎样的城市？</title>
+      <link>https://www.zhihu.com/question/320644822/answer/1737930689</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.zhihu.com/question/320644822/answer/1737930689</guid>
       <pubDate>Wed, 19 Aug 2026 00:55:48 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/44006200/</guid>
       <pubDate>Tue, 14 Jul 2026 02:33:19 +0000</pubDate>
-    </item>
-<item>
-      <title>看了二十多年世界杯的我和一些眼泪</title>
-      <link>https://www.douban.com/note/842365394/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/842365394/</guid>
-      <pubDate>Sun, 12 Jul 2026 02:50:58 +0000</pubDate>
     </item>
 </channel>
 </rss>
