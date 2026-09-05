@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/RadioMemory</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Sat, 29 Aug 2026 05:33:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 02:53:03 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[伤]]></title>
-      <link>https://www.douban.com/note/174469423/</link>
+      <title><![CDATA[老赵]]></title>
+      <link>https://www.douban.com/note/61579356/</link>
       <description><![CDATA[/]]></description>
+      <guid isPermaLink="false">https://www.douban.com/note/61579356/</guid>
+      <pubDate>Sat, 05 Sep 2026 02:53:03 +0000</pubDate>
+    </item>
+<item>
+      <title>伤</title>
+      <link>https://www.douban.com/note/174469423/</link>
+      <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/174469423/</guid>
       <pubDate>Sat, 29 Aug 2026 05:33:58 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description>/</description>
       <guid isPermaLink="false">https://www.douban.com/note/47849165/</guid>
       <pubDate>Sat, 18 Jul 2026 02:33:33 +0000</pubDate>
-    </item>
-<item>
-      <title>张晖早年信札选</title>
-      <link>https://www.douban.com/note/269688965/</link>
-      <description>/</description>
-      <guid isPermaLink="false">https://www.douban.com/note/269688965/</guid>
-      <pubDate>Thu, 16 Jul 2026 02:39:59 +0000</pubDate>
     </item>
 </channel>
 </rss>
